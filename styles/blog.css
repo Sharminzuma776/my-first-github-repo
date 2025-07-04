@@ -7,3 +7,11 @@ div{
 .list{
     background-color: cadetblue;
 }
+
+.shopping{
+    color: firebrick;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: 200px;
+    font-family: cursive;
+}
